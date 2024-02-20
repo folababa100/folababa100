@@ -6,7 +6,7 @@
 
 ## 📦 Toolbox
 
-**Frontend Development:** `React` `Vue.js` `Nuxt.js` `Next.js` `Svelte` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion`
+**Frontend Development:** `React` `Vue.js` `Nuxt.js` `Next.js` `Svelte` `TypeScript`
 
 **Cloud:** `AWS` `Azure`
  
