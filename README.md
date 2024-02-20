@@ -14,6 +14,6 @@
 
 **Backend Development:** `Nest.js` `Express.js` `GraphQL` `Firebase` 
 
-**Testing:** `Cypress` `Playwright` `Vitest` `Jest` `Postman` `Insomnia`
+**Testing:** `Cypress` `Playwright` `Vitest` `Jest`
 
 **Others:** `Storybook` `Zustand` `A11y` `Scrum` `Confluence` `Jira`
